@@ -66,5 +66,16 @@ article p{
 }
 
 artilce aside{
+	text-align: left;
 	float:right;
+	width:100px;
+}
+artilce aside ul{
+	float: right;
+
+	text-align: left;
+}
+
+artilce aside ul li{
+	float:left; 
 }
